@@ -201,6 +201,14 @@ dialog {
     padding: 0.5rem 0 0 0;
 }
 
+.radio-option {
+    display: block;
+    margin: .25rem;
+} 
+.radio-option label {
+    margin-left: .25rem;
+}
+
 fieldset {
     min-width: 0;
     margin: 0;
